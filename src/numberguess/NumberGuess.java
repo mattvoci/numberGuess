@@ -13,9 +13,8 @@ public class NumberGuess {
      * @throws java.lang.InterruptedException
      */
     public static void main(String[] args) throws java.io.IOException, InterruptedException{
-        //Hi, jake was here
-        //Hi, Jake, this is Mr. Voci
-        //Hi, Jake again
+
+        //test test test test
         
         java.io.BufferedReader keyIn = new java.io.
                 BufferedReader(new java.io.InputStreamReader(System.in));
