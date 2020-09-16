@@ -15,6 +15,7 @@ public class NumberGuess {
     public static void main(String[] args) throws java.io.IOException, InterruptedException{
 
         //test test test test
+        // random useless comments 
         
         java.io.BufferedReader keyIn = new java.io.
                 BufferedReader(new java.io.InputStreamReader(System.in));
