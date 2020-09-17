@@ -15,10 +15,12 @@ public class NumberGuess {
     public static void main(String[] args) throws java.io.IOException, InterruptedException{
 
         //test test test test
-        // random useless comments 
+        // random useless comments
         // hello everyone
         //Zoë
-        
+        //Lainie
+        //Harrison test
+        //Jake test
         java.io.BufferedReader keyIn = new java.io.
                 BufferedReader(new java.io.InputStreamReader(System.in));
 
